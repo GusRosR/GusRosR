@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-¡Hola! Me llamo Gustavo. Soy un ingeniero en sistemas<br>recién egresado del Instituto Tecnológico de Mérida. Me apasionan<br>las siguientes areas:<br><br>- 💻🛜 [Redes](../Redes/README.md)<br>- 🔒🧑🏻‍💻 Ciberseguridad<br>- ⚙️🖥️ Desarrollo Web<br><br>Este repositorio contiene algunos proyectos terminados y otros en<br>construcción, nunca se deja de aprender.
+¡Hola! Me llamo Gustavo. Soy un ingeniero en sistemas<br>recién egresado del Instituto Tecnológico de Mérida. Me apasionan<br>las siguientes areas:<br><br>- 💻🛜 [Redes]()<br>- 🔒🧑🏻‍💻 Ciberseguridad<br>- ⚙️🖥️ Desarrollo Web<br><br>Este repositorio contiene algunos proyectos terminados y otros en<br>construcción, nunca se deja de aprender.
 
 
 ## 🌐 Mis Redes Sociales:
